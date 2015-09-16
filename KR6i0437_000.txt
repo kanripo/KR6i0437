@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說忠心經
+#+DATE: 2015-08-30 20:19:36.779016
+#+PROPERTY: JUAN 0
